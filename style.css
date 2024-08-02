@@ -1,0 +1,12 @@
+h1{
+  color:red;
+}
+#slider {
+  width: max-content;
+  overflow: hidden;
+}
+
+.slide {
+  width: 100%;
+  height: 100%;
+}
