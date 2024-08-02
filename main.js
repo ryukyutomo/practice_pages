@@ -15,4 +15,3 @@ function nextSlide() {
 }
 
 setInterval(nextSlide, 3000); // 3秒ごとにスライドを切り替えます
-
